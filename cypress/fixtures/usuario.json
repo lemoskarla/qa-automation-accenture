@@ -1,0 +1,13 @@
+{
+  "firstName": "Nora",
+  "lastName": "Bitter",
+  "email": "norab@exemplo.com",
+  "gender": "Female",
+  "mobile": "0055442245",
+  "dob": "03 Jun 2025",
+  "subject": "Computer Science",
+  "hobbies": ["Reading"],
+  "address": "Zentrumstrasse",
+  "state": "Rajasthan",
+  "city": "Jaiselmer"
+}
